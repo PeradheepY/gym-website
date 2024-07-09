@@ -28,7 +28,7 @@ const AppStoreBanner = () => {
             </h1>
             <p data-aos="fade-up" className="text-center sm:px-20">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
-              magnam harum accusantium odit?
+              magnam harum accusantium odit ?
             </p>
             <div
               data-aos="fade-up"
